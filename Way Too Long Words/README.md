@@ -18,15 +18,17 @@ Print n lines. The i-th line should contain the result of replacing of the i-th 
 
 Examples:
 
-input
-4
-word
-localization
-internationalization
-pneumonoultramicroscopicsilicovolcanoconiosis
+input:
 
-output
-word
-l10n
-i18n
-p43s
+4 
+word 
+localization 
+internationalization 
+pneumonoultramicroscopicsilicovolcanoconiosis 
+
+output:
+
+word 
+l10n 
+i18n 
+p43s 
