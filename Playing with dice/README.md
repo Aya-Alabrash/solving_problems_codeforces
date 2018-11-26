@@ -1,4 +1,5 @@
 #Playing with Dice
+
 Two players are playing a game. First each of them writes an integer from 1 to 6, and then a dice is thrown. The player whose written number got closer to the number on the dice wins. If both payers have the same difference, it's a draw.
 
 The first player wrote number a, the second player wrote number b. How many ways to throw a dice are there, at which the first player wins, or there is a draw, or the second player wins?
@@ -25,4 +26,5 @@ output:
 
 #Note
 The dice is a standard cube-shaped six-sided object with each side containing a number from 1 to 6, and where all numbers on all sides are distinct.
+
 You can assume that number a is closer to number x than number b, if |a - x| < |b - x|.
